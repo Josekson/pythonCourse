@@ -1,3 +1,0 @@
-alterando para realizar git pull
-
-testando o git clone
