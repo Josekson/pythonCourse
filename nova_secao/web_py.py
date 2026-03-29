@@ -27,7 +27,7 @@ def make_chrome_browser(*options):
     )
     return browser
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
     TIME2WAIT = 10
     options = '--headless' #opçao para realizar toda a operaçao com o navegador sem ele aparecer
     browser = make_chrome_browser()
